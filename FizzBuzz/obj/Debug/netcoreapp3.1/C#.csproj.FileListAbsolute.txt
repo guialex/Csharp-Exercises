@@ -1,0 +1,13 @@
+C:\Users\guilherme.santos\OneDrive - MTech Systems USA\Documents\C#\bin\Debug\netcoreapp3.1\C#.exe
+C:\Users\guilherme.santos\OneDrive - MTech Systems USA\Documents\C#\bin\Debug\netcoreapp3.1\C#.deps.json
+C:\Users\guilherme.santos\OneDrive - MTech Systems USA\Documents\C#\bin\Debug\netcoreapp3.1\C#.runtimeconfig.json
+C:\Users\guilherme.santos\OneDrive - MTech Systems USA\Documents\C#\bin\Debug\netcoreapp3.1\C#.runtimeconfig.dev.json
+C:\Users\guilherme.santos\OneDrive - MTech Systems USA\Documents\C#\bin\Debug\netcoreapp3.1\C#.dll
+C:\Users\guilherme.santos\OneDrive - MTech Systems USA\Documents\C#\bin\Debug\netcoreapp3.1\C#.pdb
+C:\Users\guilherme.santos\OneDrive - MTech Systems USA\Documents\C#\obj\Debug\netcoreapp3.1\C#.csprojAssemblyReference.cache
+C:\Users\guilherme.santos\OneDrive - MTech Systems USA\Documents\C#\obj\Debug\netcoreapp3.1\C#.AssemblyInfoInputs.cache
+C:\Users\guilherme.santos\OneDrive - MTech Systems USA\Documents\C#\obj\Debug\netcoreapp3.1\C#.AssemblyInfo.cs
+C:\Users\guilherme.santos\OneDrive - MTech Systems USA\Documents\C#\obj\Debug\netcoreapp3.1\C#.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.santos\OneDrive - MTech Systems USA\Documents\C#\obj\Debug\netcoreapp3.1\C#.dll
+C:\Users\guilherme.santos\OneDrive - MTech Systems USA\Documents\C#\obj\Debug\netcoreapp3.1\C#.pdb
+C:\Users\guilherme.santos\OneDrive - MTech Systems USA\Documents\C#\obj\Debug\netcoreapp3.1\C#.genruntimeconfig.cache
