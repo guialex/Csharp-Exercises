@@ -6,38 +6,23 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            verificaOpcao(pegarOpcao());
+            copaMundo();
         }
 
-        private static int pegarOpcao()
+        private static void copaMundo()
         {
-
-            Console.WriteLine("Fala ai meu consagrado \n" + "Quem ganhou a Copa de 2014?");
-            Console.WriteLine("1. ARGÉLIA \n" + "2. PERU \n" + "3. ALEMANHA \n" + "4. BRASIL \n");
-
-            return Convert.ToInt32(Console.ReadLine());
-        }
-
-        private static void verificaOpcao(int opcao)
-        {
-            switch (opcao)
+            int opcao = 0;
+            do
             {
-                case 1:
-                    Console.WriteLine("Errou! HAHAHAHA");
-                    break;
-                case 2:
-                    Console.WriteLine("Errou! HAHAHAHA");
-                    break;
-                case 3:
-                    Console.WriteLine("Acertou mizeravi! Parabéns!");
-                    break;
-                case 4:
-                    Console.WriteLine("Errou! HAHAHAHA");
-                    break;
-                default:
-                    Console.WriteLine("Esqueceu do 7x1 é?");
-                    break;
-            }
+                Console.WriteLine("Fala ai meu consagrado \n" + "Quem ganhou a Copa de 2014?");
+                Console.WriteLine("1. ARGÉLIA \n" + "2. PERU \n" + "3. ALEMANHA \n" + "4. BRASIL \n");
+                opcao = Convert.ToInt32(Console.ReadLine());
+                if(opcao != 3)
+                {
+                    Console.WriteLine("errou bicho, tenta de novo \n");
+                }
+            } while (opcao != 3);
+            Console.WriteLine("Acertou carai! vlw flw"); ;
         }
     }
 }

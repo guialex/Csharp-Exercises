@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Apex04\\source\\repos\\CopaMundo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Apex04\\source\\repos\\Nova pasta\\Csharp-Exercises\\CopaMundo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Apex04\\source\\repos\\CopaMundo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\Apex04\\source\\repos\\Nova pasta\\Csharp-Exercises\\CopaMundo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\Apex04\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Apex04\\source\\repos\\CopaMundo\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Apex04\\source\\repos\\Nova pasta\\Csharp-Exercises\\CopaMundo\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Apex04\\AppData\\Roaming\\NuGet\\NuGet.Config",
