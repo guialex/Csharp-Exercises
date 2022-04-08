@@ -1,0 +1,14 @@
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\DecrescenteApp\DecrescenteApp\bin\Debug\netcoreapp3.1\DecrescenteApp.exe
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\DecrescenteApp\DecrescenteApp\bin\Debug\netcoreapp3.1\DecrescenteApp.deps.json
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\DecrescenteApp\DecrescenteApp\bin\Debug\netcoreapp3.1\DecrescenteApp.runtimeconfig.json
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\DecrescenteApp\DecrescenteApp\bin\Debug\netcoreapp3.1\DecrescenteApp.runtimeconfig.dev.json
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\DecrescenteApp\DecrescenteApp\bin\Debug\netcoreapp3.1\DecrescenteApp.dll
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\DecrescenteApp\DecrescenteApp\bin\Debug\netcoreapp3.1\DecrescenteApp.pdb
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\DecrescenteApp\DecrescenteApp\obj\Debug\netcoreapp3.1\DecrescenteApp.csproj.AssemblyReference.cache
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\DecrescenteApp\DecrescenteApp\obj\Debug\netcoreapp3.1\DecrescenteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\DecrescenteApp\DecrescenteApp\obj\Debug\netcoreapp3.1\DecrescenteApp.AssemblyInfoInputs.cache
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\DecrescenteApp\DecrescenteApp\obj\Debug\netcoreapp3.1\DecrescenteApp.AssemblyInfo.cs
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\DecrescenteApp\DecrescenteApp\obj\Debug\netcoreapp3.1\DecrescenteApp.csproj.CoreCompileInputs.cache
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\DecrescenteApp\DecrescenteApp\obj\Debug\netcoreapp3.1\DecrescenteApp.dll
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\DecrescenteApp\DecrescenteApp\obj\Debug\netcoreapp3.1\DecrescenteApp.pdb
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\DecrescenteApp\DecrescenteApp\obj\Debug\netcoreapp3.1\DecrescenteApp.genruntimeconfig.cache
