@@ -1,0 +1,14 @@
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\ContagemApp\ContagemApp\bin\Debug\netcoreapp3.1\ContagemApp.exe
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\ContagemApp\ContagemApp\bin\Debug\netcoreapp3.1\ContagemApp.deps.json
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\ContagemApp\ContagemApp\bin\Debug\netcoreapp3.1\ContagemApp.runtimeconfig.json
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\ContagemApp\ContagemApp\bin\Debug\netcoreapp3.1\ContagemApp.runtimeconfig.dev.json
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\ContagemApp\ContagemApp\bin\Debug\netcoreapp3.1\ContagemApp.dll
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\ContagemApp\ContagemApp\bin\Debug\netcoreapp3.1\ContagemApp.pdb
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\ContagemApp\ContagemApp\obj\Debug\netcoreapp3.1\ContagemApp.csproj.AssemblyReference.cache
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\ContagemApp\ContagemApp\obj\Debug\netcoreapp3.1\ContagemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\ContagemApp\ContagemApp\obj\Debug\netcoreapp3.1\ContagemApp.AssemblyInfoInputs.cache
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\ContagemApp\ContagemApp\obj\Debug\netcoreapp3.1\ContagemApp.AssemblyInfo.cs
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\ContagemApp\ContagemApp\obj\Debug\netcoreapp3.1\ContagemApp.csproj.CoreCompileInputs.cache
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\ContagemApp\ContagemApp\obj\Debug\netcoreapp3.1\ContagemApp.dll
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\ContagemApp\ContagemApp\obj\Debug\netcoreapp3.1\ContagemApp.pdb
+C:\Users\Apex04\source\repos\Nova pasta\Csharp-Exercises\ContagemApp\ContagemApp\obj\Debug\netcoreapp3.1\ContagemApp.genruntimeconfig.cache

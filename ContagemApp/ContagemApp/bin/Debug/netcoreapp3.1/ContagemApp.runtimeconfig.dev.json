@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Apex04\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Apex04\\.nuget\\packages"
+    ]
+  }
+}
