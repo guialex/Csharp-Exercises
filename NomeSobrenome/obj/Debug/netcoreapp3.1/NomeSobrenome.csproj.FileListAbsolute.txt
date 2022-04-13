@@ -1,0 +1,14 @@
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\NomeSobrenome\bin\Debug\netcoreapp3.1\NomeSobrenome.exe
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\NomeSobrenome\bin\Debug\netcoreapp3.1\NomeSobrenome.deps.json
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\NomeSobrenome\bin\Debug\netcoreapp3.1\NomeSobrenome.runtimeconfig.json
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\NomeSobrenome\bin\Debug\netcoreapp3.1\NomeSobrenome.runtimeconfig.dev.json
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\NomeSobrenome\bin\Debug\netcoreapp3.1\NomeSobrenome.dll
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\NomeSobrenome\bin\Debug\netcoreapp3.1\NomeSobrenome.pdb
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\NomeSobrenome\obj\Debug\netcoreapp3.1\NomeSobrenome.csproj.AssemblyReference.cache
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\NomeSobrenome\obj\Debug\netcoreapp3.1\NomeSobrenome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\NomeSobrenome\obj\Debug\netcoreapp3.1\NomeSobrenome.AssemblyInfoInputs.cache
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\NomeSobrenome\obj\Debug\netcoreapp3.1\NomeSobrenome.AssemblyInfo.cs
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\NomeSobrenome\obj\Debug\netcoreapp3.1\NomeSobrenome.csproj.CoreCompileInputs.cache
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\NomeSobrenome\obj\Debug\netcoreapp3.1\NomeSobrenome.dll
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\NomeSobrenome\obj\Debug\netcoreapp3.1\NomeSobrenome.pdb
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\NomeSobrenome\obj\Debug\netcoreapp3.1\NomeSobrenome.genruntimeconfig.cache

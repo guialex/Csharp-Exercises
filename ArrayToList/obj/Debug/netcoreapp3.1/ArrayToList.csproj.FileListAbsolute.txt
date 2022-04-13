@@ -1,0 +1,14 @@
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\ArrayToList\bin\Debug\netcoreapp3.1\ArrayToList.exe
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\ArrayToList\bin\Debug\netcoreapp3.1\ArrayToList.deps.json
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\ArrayToList\bin\Debug\netcoreapp3.1\ArrayToList.runtimeconfig.json
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\ArrayToList\bin\Debug\netcoreapp3.1\ArrayToList.runtimeconfig.dev.json
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\ArrayToList\bin\Debug\netcoreapp3.1\ArrayToList.dll
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\ArrayToList\bin\Debug\netcoreapp3.1\ArrayToList.pdb
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\ArrayToList\obj\Debug\netcoreapp3.1\ArrayToList.csproj.AssemblyReference.cache
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\ArrayToList\obj\Debug\netcoreapp3.1\ArrayToList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\ArrayToList\obj\Debug\netcoreapp3.1\ArrayToList.AssemblyInfoInputs.cache
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\ArrayToList\obj\Debug\netcoreapp3.1\ArrayToList.AssemblyInfo.cs
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\ArrayToList\obj\Debug\netcoreapp3.1\ArrayToList.csproj.CoreCompileInputs.cache
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\ArrayToList\obj\Debug\netcoreapp3.1\ArrayToList.dll
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\ArrayToList\obj\Debug\netcoreapp3.1\ArrayToList.pdb
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\ArrayToList\obj\Debug\netcoreapp3.1\ArrayToList.genruntimeconfig.cache
