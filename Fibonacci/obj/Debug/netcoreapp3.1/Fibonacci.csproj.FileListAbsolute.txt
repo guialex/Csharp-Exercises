@@ -1,0 +1,14 @@
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.exe
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.deps.json
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.json
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.dev.json
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.dll
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.pdb
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csproj.AssemblyReference.cache
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfo.cs
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.dll
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.pdb
+C:\Users\Apex07\Desktop\Aula_20220412\Csharp-Exercises\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.genruntimeconfig.cache
