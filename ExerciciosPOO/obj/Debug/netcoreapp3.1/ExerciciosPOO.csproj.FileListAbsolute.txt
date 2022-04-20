@@ -1,0 +1,14 @@
+C:\Users\Apex09\Desktop\Nova pasta\Csharp-Exercises\ExerciciosPOO\bin\Debug\netcoreapp3.1\ExerciciosPOO.exe
+C:\Users\Apex09\Desktop\Nova pasta\Csharp-Exercises\ExerciciosPOO\bin\Debug\netcoreapp3.1\ExerciciosPOO.deps.json
+C:\Users\Apex09\Desktop\Nova pasta\Csharp-Exercises\ExerciciosPOO\bin\Debug\netcoreapp3.1\ExerciciosPOO.runtimeconfig.json
+C:\Users\Apex09\Desktop\Nova pasta\Csharp-Exercises\ExerciciosPOO\bin\Debug\netcoreapp3.1\ExerciciosPOO.runtimeconfig.dev.json
+C:\Users\Apex09\Desktop\Nova pasta\Csharp-Exercises\ExerciciosPOO\bin\Debug\netcoreapp3.1\ExerciciosPOO.dll
+C:\Users\Apex09\Desktop\Nova pasta\Csharp-Exercises\ExerciciosPOO\bin\Debug\netcoreapp3.1\ExerciciosPOO.pdb
+C:\Users\Apex09\Desktop\Nova pasta\Csharp-Exercises\ExerciciosPOO\obj\Debug\netcoreapp3.1\ExerciciosPOO.csproj.AssemblyReference.cache
+C:\Users\Apex09\Desktop\Nova pasta\Csharp-Exercises\ExerciciosPOO\obj\Debug\netcoreapp3.1\ExerciciosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apex09\Desktop\Nova pasta\Csharp-Exercises\ExerciciosPOO\obj\Debug\netcoreapp3.1\ExerciciosPOO.AssemblyInfoInputs.cache
+C:\Users\Apex09\Desktop\Nova pasta\Csharp-Exercises\ExerciciosPOO\obj\Debug\netcoreapp3.1\ExerciciosPOO.AssemblyInfo.cs
+C:\Users\Apex09\Desktop\Nova pasta\Csharp-Exercises\ExerciciosPOO\obj\Debug\netcoreapp3.1\ExerciciosPOO.csproj.CoreCompileInputs.cache
+C:\Users\Apex09\Desktop\Nova pasta\Csharp-Exercises\ExerciciosPOO\obj\Debug\netcoreapp3.1\ExerciciosPOO.dll
+C:\Users\Apex09\Desktop\Nova pasta\Csharp-Exercises\ExerciciosPOO\obj\Debug\netcoreapp3.1\ExerciciosPOO.pdb
+C:\Users\Apex09\Desktop\Nova pasta\Csharp-Exercises\ExerciciosPOO\obj\Debug\netcoreapp3.1\ExerciciosPOO.genruntimeconfig.cache
