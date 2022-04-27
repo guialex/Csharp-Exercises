@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.Serialization;
 
 namespace bancoApp
 {
@@ -48,16 +49,49 @@ namespace bancoApp
 
         private static int pegarIdade()
         {
-            Console.WriteLine("Por favor informe a tua idade meu estimado");
-            return Convert.ToInt32(Console.ReadLine());
+            int idade = 0;
+            try
+            {
+                Console.WriteLine("Por favor informe a tua idade meu estimado");
+                idade = Convert.ToInt32(Console.ReadLine());
+                if(idade < 0)
+                {
+                    throw new IdadeNegativaException();
+                }
+                else
+                {
+                    return idade;
+                }
+
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("tu informou uma idade inválida, digita de novo ai \n");
+                return pegarIdade();
+            }
+            catch (IdadeNegativaException ex)
+            {
+                Console.WriteLine(ex.Message);
+                return pegarIdade();
+            }
+
         }
 
         private static int pegaOpcao(string nomeUser, double saldo)
         {
-            Console.WriteLine("Teu saldo é de: " + saldo);
-            Console.WriteLine("O que tu quer fazer?");
-            Console.WriteLine("3 = Depositar | 2 = Sacar | 1 = Sair");
-            return Convert.ToInt32(Console.ReadLine());
+            try
+            {
+                Console.WriteLine("Teu saldo é de: " + saldo);
+                Console.WriteLine("O que tu quer fazer?");
+                Console.WriteLine("3 = Depositar | 2 = Sacar | 1 = Sair");
+                return Convert.ToInt32(Console.ReadLine());
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Não existe essa opcão, digita de novo ai campeão");
+                return pegaOpcao(nomeUser, saldo);
+            }
+            
         }
 
         private static void saudacaoUser(string nomeUser)
