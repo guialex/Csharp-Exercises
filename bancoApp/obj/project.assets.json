@@ -8,24 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Apex09\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\guilherme.santos\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Apex09\\Desktop\\Aula_20220426\\Csharp-Exercises\\bancoApp\\bancoApp.csproj",
+      "projectUniqueName": "C:\\C#\\Csharp-Exercises\\bancoApp\\bancoApp.csproj",
       "projectName": "bancoApp",
-      "projectPath": "C:\\Users\\Apex09\\Desktop\\Aula_20220426\\Csharp-Exercises\\bancoApp\\bancoApp.csproj",
-      "packagesPath": "C:\\Users\\Apex09\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Apex09\\Desktop\\Aula_20220426\\Csharp-Exercises\\bancoApp\\obj\\",
+      "projectPath": "C:\\C#\\Csharp-Exercises\\bancoApp\\bancoApp.csproj",
+      "packagesPath": "C:\\Users\\guilherme.santos\\.nuget\\packages\\",
+      "outputPath": "C:\\C#\\Csharp-Exercises\\bancoApp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Apex09\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\guilherme.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -65,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -17,17 +17,33 @@ namespace bancoApp
             }
             else
             {
-                Console.WriteLine("Digita a quantidade que tu quer sacar: \n");
-                saldo -= Convert.ToDouble(Console.ReadLine());
+                try
+                {
+                    Console.WriteLine("Digita a quantidade que tu quer sacar: \n");
+                    saldo -= Convert.ToDouble(Console.ReadLine());
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Tu digitou uma quantidade inválida ai meu \n");
+                    return sacaDinheiro(saldo);
+                }
             }
             return saldo;
-
         }
 
         public double depositaDinheiro(double saldo)
         {
-            Console.WriteLine("Digita a quantidade que tu quer depositar: ");
-            return saldo += Convert.ToInt32(Console.ReadLine());
+            try
+            {
+                Console.WriteLine("Digita a quantidade que tu quer depositar: ");
+                return saldo += Convert.ToInt32(Console.ReadLine());
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Tu digitou uma quantidade inválida ai meu \n");
+                return depositaDinheiro(saldo);
+            }
+
         }
     }
 }

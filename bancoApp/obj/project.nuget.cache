@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0LbxQHFbVip6sL2hzgsxvakOzYVrXXBUlXic8TTfG5Grpjv2J9tBVl4VV6zUwLtWfhcQIQMhXZXw39sX5v51TQ==",
+  "dgSpecHash": "k7L4zMCdF0A6FtuD0OBb2djT2AYYG6Rsw2DHFU/ChFOgL4NhjumgGrEIfE37XH+wztSFqiYmkx61PAGf/kjhbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Apex09\\Desktop\\Aula_20220426\\Csharp-Exercises\\bancoApp\\bancoApp.csproj",
+  "projectFilePath": "C:\\C#\\Csharp-Exercises\\bancoApp\\bancoApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

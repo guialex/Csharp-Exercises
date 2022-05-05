@@ -12,3 +12,17 @@ C:\Users\Apex09\Desktop\Aula_20220426\Csharp-Exercises\bancoApp\obj\Debug\netcor
 C:\Users\Apex09\Desktop\Aula_20220426\Csharp-Exercises\bancoApp\obj\Debug\netcoreapp3.1\bancoApp.dll
 C:\Users\Apex09\Desktop\Aula_20220426\Csharp-Exercises\bancoApp\obj\Debug\netcoreapp3.1\bancoApp.pdb
 C:\Users\Apex09\Desktop\Aula_20220426\Csharp-Exercises\bancoApp\obj\Debug\netcoreapp3.1\bancoApp.genruntimeconfig.cache
+C:\C#\Csharp-Exercises\bancoApp\bin\Debug\netcoreapp3.1\bancoApp.exe
+C:\C#\Csharp-Exercises\bancoApp\bin\Debug\netcoreapp3.1\bancoApp.deps.json
+C:\C#\Csharp-Exercises\bancoApp\bin\Debug\netcoreapp3.1\bancoApp.runtimeconfig.json
+C:\C#\Csharp-Exercises\bancoApp\bin\Debug\netcoreapp3.1\bancoApp.runtimeconfig.dev.json
+C:\C#\Csharp-Exercises\bancoApp\bin\Debug\netcoreapp3.1\bancoApp.dll
+C:\C#\Csharp-Exercises\bancoApp\bin\Debug\netcoreapp3.1\bancoApp.pdb
+C:\C#\Csharp-Exercises\bancoApp\obj\Debug\netcoreapp3.1\bancoApp.csproj.AssemblyReference.cache
+C:\C#\Csharp-Exercises\bancoApp\obj\Debug\netcoreapp3.1\bancoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Csharp-Exercises\bancoApp\obj\Debug\netcoreapp3.1\bancoApp.AssemblyInfoInputs.cache
+C:\C#\Csharp-Exercises\bancoApp\obj\Debug\netcoreapp3.1\bancoApp.AssemblyInfo.cs
+C:\C#\Csharp-Exercises\bancoApp\obj\Debug\netcoreapp3.1\bancoApp.csproj.CoreCompileInputs.cache
+C:\C#\Csharp-Exercises\bancoApp\obj\Debug\netcoreapp3.1\bancoApp.dll
+C:\C#\Csharp-Exercises\bancoApp\obj\Debug\netcoreapp3.1\bancoApp.pdb
+C:\C#\Csharp-Exercises\bancoApp\obj\Debug\netcoreapp3.1\bancoApp.genruntimeconfig.cache
