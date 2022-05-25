@@ -31,8 +31,14 @@ namespace WebApplication1
                 {
                     options.UseSqlServer(Configuration.GetConnectionString("connection"));
                 });
-                    
-                 
+
+            services.AddDbContext<ProdutoDbContext>(
+                options =>
+                {
+                    options.UseSqlServer(Configuration.GetConnectionString("connection"));
+                });
+
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

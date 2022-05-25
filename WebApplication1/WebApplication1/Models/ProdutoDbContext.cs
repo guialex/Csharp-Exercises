@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace WebApplication1.Models
 {
-    public class UsuarioDbContext : DbContext
+    public class ProdutoDbContext : DbContext
     {
-        public DbSet<Usuario> Usuarios { get; set; }
+        public DbSet<Produto> Produtos { get; set; }
 
-        public UsuarioDbContext(DbContextOptions <UsuarioDbContext> options) : base(options)
+        public ProdutoDbContext(DbContextOptions <ProdutoDbContext> options) : base(options)
         {
 
         }
